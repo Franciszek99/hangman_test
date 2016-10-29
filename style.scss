@@ -1,0 +1,84 @@
+//how use this fonts https://www.fontsquirrel.com/fonts/aller
+
+$margin:10px;
+
+body{
+	background-color: #3B4263;
+}
+
+
+.container{
+    margin-top:10px;
+    background-color: #F5F5F5;
+    min-height:500px;
+    .row{
+        padding-top:10px;
+        h1{
+            font-size:14px;
+        }
+        .col-sm-5{
+        .img{
+            width:20%;
+            height:20%;
+            #bar{
+                
+            }
+            #corpus{
+                
+                
+            }
+            #left-arm{
+                
+                
+            }
+            #left-foot{
+                
+                
+            }
+    }
+}
+    }
+}
+
+.radius {
+    border: 2px solid;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px #000000;
+
+}
+.col-sm-12{
+    margin: $margin;
+    
+}
+.pass{
+    width: 90px;
+	height: 90px;
+	text-align:center;
+	padding: 5px;
+	margin: 5px;
+	
+	float: left;
+	border-radius: 3px;
+	background-color:#50525a;
+}
+.pass2{
+    width: 90px;
+	height: 90px;
+	text-align:center;
+	padding: 5px;
+	margin: 5px;
+	
+	float: left;
+	border-radius: 3px;
+	background-color:#E6E6E7;
+}
+.pass1{
+    margin-left:10px;
+}
+
+#letters{
+     font-size:55px;
+     color:blue;
+     min-height:300px;
+     
+}
